@@ -4,8 +4,7 @@
                             urn:infinispan:server:12.0 https://infinispan.org/schemas/infinispan-server-12.0.xsd
                             urn:infinispan:config:clustered-locks:12.0 https://infinispan.org/schemas/infinispan-clustered-locks-config-12.0.xsd
                             urn:org:jgroups https://www.jgroups.org/schema/jgroups-4.2.xsd
-                            urn:infinispan:config:cloudevents:12.0
-                            https://infinispan.org/schemas/infinispan-cloudevents-config-12.0.xsd"
+                            urn:infinispan:config:cloudevents:12.0 https://infinispan.org/schemas/infinispan-cloudevents-config-12.0.xsd"
         xmlns="urn:infinispan:config:12.0"
         xmlns:server="urn:infinispan:server:12.0"
         xmlns:locks="urn:infinispan:config:clustered-locks:12.0"
